@@ -18,7 +18,7 @@ code_clipboard: true
 
 # Introduction
 
-Welcome to the Cosmos Bots API! You can use our API to access Cosmos Bots API endpoints, which can get information on licenses, drops and our monitors.
+Welcome to the Cosmos Bots API! You can use our API to access Cosmos Bots API endpoints, which can get information on licenses, drops and all our compatible monitors.
 
 We currently only have language bindings in Python. More are planned to come in the future.
 
